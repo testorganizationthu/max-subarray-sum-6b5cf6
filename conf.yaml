@@ -1,0 +1,6 @@
+folder: problem
+samples:
+    - cases: '[1..4]'
+title:
+    en: Max Subarray Sum 6b5cf6
+version: 2
